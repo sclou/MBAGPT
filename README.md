@@ -95,3 +95,4 @@ In general, keep an eye out in the `issues` and `discussions` section of this re
 
 Frontend of this repo is inspired by [langchain-chat-nextjs](https://github.com/zahidkhawaja/langchain-chat-nextjs)
 # MBAGPT
+# MBAGPT
